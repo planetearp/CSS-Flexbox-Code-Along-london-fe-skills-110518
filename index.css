@@ -4,7 +4,7 @@ body {
   padding: 0;
 }
 
-align-class {
+.align-class {
   align-self: flex-end;
 }
 
