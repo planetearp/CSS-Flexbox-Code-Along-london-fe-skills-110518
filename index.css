@@ -4,6 +4,10 @@ body {
   padding: 0;
 }
 
+align-class {
+  align-self: flex-end;
+}
+
 header {
   background-color: #DAEEEF;
   height: 80px;
